@@ -21,6 +21,14 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
+          <li>여기다 여기</li>
+          <li>
+            <button className="btn btn-primary">버튼버튼버튼</button>
+            <button className="btn btn-info">Info</button>
+            <button className="btn btn-success">Success</button>
+            <button className="btn btn-warning">Warning</button>
+            <button className="btn btn-error">Error</button>
+          </li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
